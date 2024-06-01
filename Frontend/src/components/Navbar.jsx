@@ -17,7 +17,7 @@ const Navbar = () => {
   </>)
   return (
     <>
-    <div className='max-w-screen-2xl mx-auto md:px-20 px-4'>
+    <div className='max-w-screen-2xl container mx-auto md:px-20 px-4 text-white'>
     <div className="navbar bg-base-100">
     <div className="navbar-start">
     <div className="dropdown">
@@ -28,7 +28,7 @@ const Navbar = () => {
         {navItems}
       </ul>
     </div>
-    <a className="btn btn-ghost text-xl">BOOKSTORE</a>
+    <a className="btn btn-ghost text-2xl ">BOOKSTORE</a>
   </div>
   <div className="navbar-end space-x-3">
   <div className="navbar-center hidden lg:flex">
@@ -36,7 +36,7 @@ const Navbar = () => {
       {navItems}
     </ul>
   </div>
-  <div className='hidden md:block'>
+  <div className='hidden md:block hover:bg-slate-800'>
   <label className="outline outline-slate-600 outline-1 py-2 px-2 rounded-md flex items-center gap-2">
   <input type="text" className="grow outline-none bg-transparent" placeholder="Search" />
   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill="currentColor" className="w-4 h-4 opacity-70 cursor-pointer"><path fillRule="evenodd" d="M9.965 11.026a5 5 0 1 1 1.06-1.06l2.755 2.754a.75.75 0 1 1-1.06 1.06l-2.755-2.754ZM10.5 7a3.5 3.5 0 1 1-7 0 3.5 3.5 0 0 1 7 0Z" clipRule="evenodd" /></svg>
