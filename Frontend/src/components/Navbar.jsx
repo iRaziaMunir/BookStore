@@ -17,7 +17,7 @@ const Navbar = () => {
   </>)
   return (
     <>
-    <div className='max-w-screen-2xl container mx-auto md:px-20 px-4 text-white'>
+    <div className='max-w-screen-2xl container mx-auto px-4 text-white fixed top-0 left-0 right-0'>
     <div className="navbar bg-base-100">
     <div className="navbar-start">
     <div className="dropdown">
@@ -28,7 +28,7 @@ const Navbar = () => {
         {navItems}
       </ul>
     </div>
-    <a className="btn btn-ghost text-2xl ">BOOKSTORE</a>
+    <a className="btn btn-ghost text-xl md:text-2xl ">BOOKSTORE</a>
   </div>
   <div className="navbar-end space-x-3">
   <div className="navbar-center hidden lg:flex">
