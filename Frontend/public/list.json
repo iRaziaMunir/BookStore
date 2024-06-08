@@ -1,0 +1,88 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "name": "Pride and Prejudice",
+      "description": "A romantic novel of manners that depicts the British Regency era.",
+      "type": "Fiction",
+      "price": 0.00,
+      "image": "/book.jpg",
+      "category": "Free"
+    },
+    {
+      "id": 2,
+      "name": "Moby Dick",
+      "description": "The narrative of Captain Ahab's obsessive quest to seek revenge on Moby Dick, the white whale.",
+      "type": "Adventure",
+      "price": 0.00,
+      "image": "/book.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Frankenstein",
+      "description": "A novel about a scientist who creates a grotesque creature in an unorthodox scientific experiment.",
+      "type": "Horror",
+      "price": 0.00,
+      "image": "/book.jpg"
+    },
+    {
+      "id": 4,
+      "name": "The Adventures of Sherlock Holmes",
+      "description": "A collection of twelve short stories featuring the famous detective Sherlock Holmes.",
+      "type": "Mystery",
+      "price": 0.00,
+      "image": "/book.jpg"
+    },
+    {
+      "id": 5,
+      "name": "A Tale of Two Cities",
+      "description": "A story set in London and Paris before and during the French Revolution.",
+      "type": "Historical",
+      "price": 0.00,
+      "image": "/book.jpg",
+      "category": "Free"
+    },
+    {
+      "id": 6,
+      "name": "The Catcher in the Rye",
+      "description": "A story about the events in the life of a young man named Holden Caulfield.",
+      "type": "Fiction",
+      "price": 9.99,
+      "image": "/book.jpg"
+    },
+    {
+      "id": 7,
+      "name": "1984",
+      "description": "A dystopian social science fiction novel and cautionary tale about the future.",
+      "type": "Dystopian",
+      "price": 14.99,
+      "image": "/book.jpg"
+    },
+    {
+      "id": 8,
+      "name": "To Kill a Mockingbird",
+      "description": "A novel about the serious issues of rape and racial inequality.",
+      "type": "Fiction",
+      "price": 12.99,
+      "image": "/book.jpg"
+    },
+    {
+      "id": 9,
+      "name": "The Great Gatsby",
+      "description": "A novel about the American dream and the roaring twenties.",
+      "type": "Fiction",
+      "price": 10.99,
+      "image": "/book.jpg",
+      "category": "Free"
+    },
+    {
+      "id": 10,
+      "name": "Brave New World",
+      "description": "A dystopian novel about a technologically advanced future society.",
+      "type": "Dystopian",
+      "price": 8.99,
+      "image": "/book.jpg",
+      "category": "Free"
+    }
+  ]
+}
