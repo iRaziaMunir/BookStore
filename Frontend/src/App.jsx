@@ -13,7 +13,7 @@ function App() {
 
   return (
     <>
-    <div className='bg-gray-600 text-white'>
+    <div >
       {/* <Navbar />
       <Banner />
       <FreeBooks />
